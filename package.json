@@ -1,0 +1,22 @@
+{
+  "name": "stream-cut-header",
+  "version": "1.0.0",
+  "description": "cut the header from a stream  ,return the header-string and the left stream.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JeremyWei/easy_mongo.git"
+  },
+  "keywords": [
+    "stream",
+    "header"
+  ],
+  "author": "chianquan",
+  "license": "GPL-3.0",
+  "devDependencies": {
+    "mocha": "^3.0.2"
+  }
+}
